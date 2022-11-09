@@ -1,7 +1,6 @@
+# Go lang Personal learning
+
 ![Icon Go lang](icons8-golang.svg)
-
-
-
 
 ## To start using Go, you need two things:
 
