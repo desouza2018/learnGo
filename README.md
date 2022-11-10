@@ -19,6 +19,6 @@
 
 ## Go Install IDE
 
-![Visual Studio Code Icon](vscode-svgrepo-com.svg) ![Link to Download]( https://code.visualstudio.com/)
+[Visual Studio Code Icon](vscode-svgrepo-com.svg) ![Visual Studio Code]( https://code.visualstudio.com/)
 
 
